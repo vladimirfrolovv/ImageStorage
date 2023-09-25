@@ -1,1 +1,1 @@
-# ImageStorage
+# JavaService
